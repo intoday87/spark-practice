@@ -31,3 +31,8 @@ spark를 배우면서 기억해놓아야할 내용들
 
 ## When not to use
 - SQL에 최적화된 DB 대체는 
+
+
+### Tools
+- [스파크 완벽 가이드 책 실행 샘플 docker](https://hub.docker.com/r/rheor108/spark_the_definitive_guide_practice)
+  - `docker run -p 8080:8080 -p 4040:4040 rheor108/spark_the_definitive_guide_practice`
